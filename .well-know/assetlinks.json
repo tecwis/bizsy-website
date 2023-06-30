@@ -1,0 +1,14 @@
+[
+    {
+        "relation": [
+            "delegate_permission/common.handle_all_urls"
+        ],
+        "target": {
+            "namespace": "android_app",
+            "package_name": "com.bizsy.driver.android",
+            "sha256_cert_fingerprints": [
+                "76:9A:75:69:33:D2:23:69:B9:D7:53:AA:A3:08:6C:F1:28:1C:C2:35:61:E2:68:25:88:FE:38:5D:08:D9:75:34"
+            ]
+        }
+    }
+]
