@@ -155,7 +155,7 @@ footer:
 
 # Reading Files
 include:
-  - [".well-known"]
+  - .well-known
   - .htaccess
   - _pages
 exclude:
